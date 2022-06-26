@@ -1,21 +1,13 @@
-# C-Programming-Course-Phitron
-This repo contains my learning and practice about C programming from phitron.io
+## `C-Language-Problems-and-Solutions`
 
-The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+## :octocat: Do Fork And :eight_pointed_black_star: Give Star This Repo
+Simple and short beginners friendly C programs. 
+
+"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
 
 These program are written at codeblocks ide in windows. These programs are not very sophisticated as these are beginners friendly and have many bugs. Anyone who is new to c language can practice these examples. 
 
-- Only programs written in c language will be merged.
-- Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged. 
-- Use this tool to beautify your code : https://codebeautify.org/c-formatter-beautifier
-- Make sure your program works after beautifying it.
-- #include< stdio.h > is wrong and you must remove whitespaces. #include<stdio.h> is correct.
-- Please check your spellings before making a PR
-- Comment code properly.
-
-<img src= "Practice/Screenshot.png" width=1000>
-
-## প্রোগামিং বই (Prgramming Books):
+## প্রোগামিং বই:
 
 - [কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)-Tamim Shahriar
 
@@ -31,11 +23,8 @@ These program are written at codeblocks ide in windows. These programs are not v
 
 - [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
 
-
-
-
 ## Contributing
 
-This is a self learning project for myself.
+This is a self learning course for myself.
 
 Please feel free to fork this repo. Pull request to submit more programs.
