@@ -7,6 +7,8 @@ Simple and short beginners friendly C programs.
 
 These program are written at codeblocks ide in windows. These programs are not very sophisticated as these are beginners friendly and have many bugs. Anyone who is new to c language can practice these examples. 
 
+<img src= "Practice/Desktop.jpg" width=1000>
+
 ## প্রোগামিং বই:
 
 - [কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)-Tamim Shahriar
